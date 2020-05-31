@@ -2,6 +2,8 @@
 
 This is an analytics script written in Python that parses the data output provided by Google. Currently the functionality is limited to calculating total time in seconds spent on YouTube.
 
+The Youtube Video API can be found [here](https://developers.google.com/youtube/v3/docs/videos)
+
 ## Setup Instructions
 
 1. Go to [Google Takeout](https://takeout.google.com/)
