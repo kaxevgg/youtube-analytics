@@ -4,7 +4,7 @@ This is an analytics script written in Python that parses the data output provid
 
 ## Setup Instructions
 
-1. Go to [Google Takout](https://takeout.google.com/)
+1. Go to [Google Takeout](https://takeout.google.com/)
 2. Scroll down to section that reads "YouTube and YouTube Music"
 3. Click on "All YouTube data included"
 4. Click on "Deselect all"
